@@ -1,6 +1,6 @@
 # Slide the Slide Sliding the Index by RegoData
 
-A responsive hand‑gesture slide controller with an interactive layout editor. Use your camera (or OBS Virtual Camera) and simple hand gestures to navigate through presentation slides without touching your keyboard.
+A responsive hand‑gesture slide controller with an interactive layout editor. Use your camera (prefered OBS Virtual Camera) and simple hand gestures to navigate through presentation slides without touching your keyboard.
 
 ## Features
 
